@@ -12,3 +12,5 @@ Projeto desenvolvido para iniciar meus estudos com Angular.
 ```bash
 npm install
 ng serve
+```
+Acesse: http://localhost:4200/
