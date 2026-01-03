@@ -8,7 +8,7 @@ Projeto desenvolvido para iniciar meus estudos com Angular.
 - HTML
 - CSS
 
-## ▶️ Como executar
+## Como Executar
 ```bash
 npm install
 ng serve
